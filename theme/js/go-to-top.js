@@ -1,0 +1,2 @@
+window.onscroll=function(){toggleGoToTopButton()};function toggleGoToTopButton(){let button=document.getElementById("goToTop");if(document.body.scrollTop>100||document.documentElement.scrollTop>100){button.style.display="block";}else{button.style.display="none";}}
+document.getElementById("goToTop").onclick=function(){window.scrollTo({top:0,behavior:"smooth"});};
