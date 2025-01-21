@@ -1,0 +1,3 @@
+function openPopup(imgElement){const popupContainer=document.getElementById('popup-container');const popupImage=document.getElementById('popup-image');popupImage.src=imgElement.src;popupContainer.style.display='flex';}
+function closePopup(){const popupContainer=document.getElementById('popup-container');popupContainer.style.display='none';document.getElementById('popup-image').src='';}
+window.onload=function(){const popupContainer=document.getElementById('popup-container');popupContainer.style.display='none';};
