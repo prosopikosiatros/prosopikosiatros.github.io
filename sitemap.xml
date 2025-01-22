@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2025-01-21T15:54:55-00:00</lastmod>
+<lastmod>2025-01-22T09:23:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -27,14 +27,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/pages/gallery.html</loc>
-<lastmod>2025-01-21T13:14:16+02:00</lastmod>
+<lastmod>2025-01-22T09:23:13+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/misc.html</loc>
-<lastmod>2025-01-21T15:54:55-00:00</lastmod>
+<lastmod>2025-01-22T09:23:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,56 +62,49 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/services.html</loc>
-<lastmod>2025-01-21T15:54:55-00:00</lastmod>
+<lastmod>2025-01-22T09:23:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/services/services/aestheticMedicineService.html</loc>
-<lastmod>2025-01-16T10:01:52+02:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>/services/services/assistanceService.html</loc>
-<lastmod>2025-01-16T10:00:29+02:00</lastmod>
+<lastmod>2025-01-22T08:56:15+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/certificatesService.html</loc>
-<lastmod>2025-01-16T10:01:30+02:00</lastmod>
+<lastmod>2025-01-21T17:31:20+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/chronicDiseasesService.html</loc>
-<lastmod>2025-01-16T09:59:30+02:00</lastmod>
+<lastmod>2025-01-22T08:56:22+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/emergencyService.html</loc>
-<lastmod>2025-01-16T10:00:40+02:00</lastmod>
+<lastmod>2025-01-22T08:56:29+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/eopyyService.html</loc>
-<lastmod>2025-01-17T13:28:31+02:00</lastmod>
+<lastmod>2025-01-22T08:56:41+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/preventiveMedicineService.html</loc>
-<lastmod>2025-01-16T09:56:15+02:00</lastmod>
+<lastmod>2025-01-22T08:56:36+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
