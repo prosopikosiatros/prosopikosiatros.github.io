@@ -6,8 +6,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2025-01-23T11:43:13-00:00</lastmod>
+<lastmod>2025-01-23T16:51:40-00:00</lastmod>
 <changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/cookies/policy.html</loc>
+<lastmod>2025-01-23T16:30:27+02:00</lastmod>
+<changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
@@ -33,8 +40,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/services/cookies.html</loc>
+<lastmod>2025-01-23T16:51:40-00:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/services/misc.html</loc>
-<lastmod>2025-01-23T11:43:13-00:00</lastmod>
+<lastmod>2025-01-23T16:51:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -62,7 +76,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/services.html</loc>
-<lastmod>2025-01-23T11:43:13-00:00</lastmod>
+<lastmod>2025-01-23T16:51:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
