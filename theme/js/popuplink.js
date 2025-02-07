@@ -1,3 +1,3 @@
-function openPopupLink(linkElement){const popupContainer=document.getElementById('popup-container');const popupImage=document.getElementById('popup-image');popupImage.src=linkElement.querySelector('img').src;popupContainer.style.display='flex';}
+function openPopupLink(linkElement){const popupContainer=document.getElementById('popup-container');const popupImage=document.getElementById('popup-image');const popupLink=document.getElementById('popup-link');const phoneNumber=linkElement.textContent.trim();popupImage.src=linkElement.querySelector('img').src;popupLink.href="tel:"+phoneNumber;popupContainer.style.display='flex';}
 function closePopupLink(){const popupContainer=document.getElementById('popup-container');popupContainer.style.display='none';document.getElementById('popup-image').src='';}
 window.onload=function(){const popupContainer=document.getElementById('popup-container');popupContainer.style.display='none';};
