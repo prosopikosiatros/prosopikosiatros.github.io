@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2025-02-07T09:48:06-00:00</lastmod>
+<lastmod>2025-02-07T12:29:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -20,7 +20,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/pages/contact.html</loc>
-<lastmod>2025-01-24T21:15:12+02:00</lastmod>
+<lastmod>2025-02-07T12:27:55+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,28 +34,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/pages/gallery.html</loc>
-<lastmod>2025-01-24T21:15:12+02:00</lastmod>
+<lastmod>2025-02-07T10:54:30+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/cookies.html</loc>
-<lastmod>2025-02-07T09:48:06-00:00</lastmod>
+<lastmod>2025-02-07T12:29:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/misc.html</loc>
-<lastmod>2025-02-07T09:48:06-00:00</lastmod>
+<lastmod>2025-02-07T12:29:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/misc/contact.html</loc>
-<lastmod>2025-02-05T14:39:31+02:00</lastmod>
+<lastmod>2025-02-07T12:07:52+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -76,7 +76,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/services.html</loc>
-<lastmod>2025-02-07T09:48:06-00:00</lastmod>
+<lastmod>2025-02-07T12:29:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
