@@ -6,7 +6,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2025-02-10T16:10:01-00:00</lastmod>
+<lastmod>2025-02-10T16:39:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -41,14 +41,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/cookies.html</loc>
-<lastmod>2025-02-10T16:10:01-00:00</lastmod>
+<lastmod>2025-02-10T16:39:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/misc.html</loc>
-<lastmod>2025-02-10T16:10:01-00:00</lastmod>
+<lastmod>2025-02-10T16:39:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -69,14 +69,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/services.html</loc>
-<lastmod>2025-02-10T16:10:01-00:00</lastmod>
+<lastmod>2025-02-10T16:39:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/services/services/assistanceService.html</loc>
-<lastmod>2025-01-22T08:56:15+02:00</lastmod>
+<lastmod>2025-02-10T16:36:50+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -97,7 +97,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/services/services/emergencyService.html</loc>
-<lastmod>2025-01-22T08:56:29+02:00</lastmod>
+<lastmod>2025-02-10T16:38:34+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
